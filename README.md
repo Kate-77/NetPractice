@@ -2,9 +2,9 @@
 ## TCP/IP
 TCP/IP stands for Transmission Control Protocol/Internet Protocol, which is the underlying communication language of the internet. It is a suite of protocols that govern how data is sent and received over a network.
 
-In TCP/IP, every device on the network, such as a computer or smartphone, is assigned a unique IP address. An IP address is a series of numbers and dots that uniquely identifies a device on the network. There are two versions of IP addresses in use today: IPv4 and IPv6. IPv4 addresses are 32-bit numbers usually represented in "dotted decimal" notation, such as 192.168.1.1. IPv6 addresses are 128-bit numbers represented in hexadecimal notation, such as 2001:0db8:85a3:0000:0000:8a2e:0370:7334.
+In TCP/IP, every device on the network, such as a computer or smartphone, is assigned a unique IP address. An IP address is a series of numbers and dots that uniquely identifies a device on the network. There are two versions of IP addresses in use today: IPv4 and IPv6. IPv4 addresses are 32-bit numbers usually represented in "dotted decimal" notation, such as `192.168.1.1` IPv6 addresses are 128-bit numbers represented in hexadecimal notation, such as `2001:0db8:85a3:0000:0000:8a2e:0370:7334`.
 
-An IP address is divided into two parts: the network address and the host address. The network address identifies the network to which the device belongs, while the host address identifies the device within that network. This allows data to be sent to the right network and then directed to the right device within that network.
+An IP address is divided into two parts: the network address and the *host address*. The network address identifies the network to which the device belongs, while the host address identifies the device within that network. This allows data to be sent to the right network and then directed to the right device within that network.
 
 TCP and IP protocols work together to deliver data over the internet. IP is responsible for routing the data, while TCP is responsible for ensuring that the data is delivered to the correct application on the receiving device.
 
