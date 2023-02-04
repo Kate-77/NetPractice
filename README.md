@@ -19,4 +19,32 @@ For example, an administrator might take a network that has an IP address range 
 
 The process of Subnetting allows for better organization, greater flexibility, and improved security. By dividing a network into smaller subnets, the administrator can assign specific IP address ranges to different departments, devices, and other elements of the network, which makes it easier to identify, manage, and secure those devices.
 
+### Level 1
 ![Level 1](https://github.com/Kate-77/NetPractice/blob/master/Level1/level1.png)
+
+### Level 2
+![Level 2](https://github.com/Kate-77/NetPractice/blob/master/Level2/level2.png)
+
+### Level 3
+![Level 3](https://github.com/Kate-77/NetPractice/blob/master/Level3/level3.png)
+
+### Level 4
+![Level 4](https://github.com/Kate-77/NetPractice/blob/master/Level4/level4.png)
+
+### Level 5
+![Level 5](https://github.com/Kate-77/NetPractice/blob/master/Level5/level5.png)
+
+### Level 6
+![Level 6](https://github.com/Kate-77/NetPractice/blob/master/Level6/level6.png)
+
+### Level 7
+![Level 7](https://github.com/Kate-77/NetPractice/blob/master/Level7/level7.png)
+
+### Level 8
+![Level 8](https://github.com/Kate-77/NetPractice/blob/master/Level8/level8.png)
+
+### Level 9
+![Level 9](https://github.com/Kate-77/NetPractice/blob/master/Level9/level9.png)
+
+### Level 10
+![Level 10](https://github.com/Kate-77/NetPractice/blob/master/Level10/level10.png)
